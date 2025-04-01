@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Clair\\source\\repos\\Josh011600\\ProjectReviewer\\MyWebApp\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Clair\\source\\repos\\Josh011600\\ProjectReviewer\\MyWebApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Clair\\source\\repos\\Josh011600\\ProjectReviewer\\MyWebApp\\wwwroot\\js\\script,js",
+      "PackagePath": "staticwebassets\\js"
+    },
+    {
+      "Id": "C:\\Users\\Clair\\source\\repos\\Josh011600\\ProjectReviewer\\MyWebApp\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyWebApp.props",
+      "PackagePath": "build\\MyWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyWebApp.props",
+      "PackagePath": "buildMultiTargeting\\MyWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyWebApp.props",
+      "PackagePath": "buildTransitive\\MyWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
